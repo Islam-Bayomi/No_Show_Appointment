@@ -14,4 +14,3 @@
 ###### 2-explore data
 ###### 3-answer questions by visualize the data
 ###### 4-make conclusions
-#### • [you can navigate the data with IPython Notebook (Jupyter) using mybinder in the link below by clicking here](https://mybinder.org/v2/gh/samedhaa/investigating-a-dataset-no-show-appointments-udacity-project2/master)  
